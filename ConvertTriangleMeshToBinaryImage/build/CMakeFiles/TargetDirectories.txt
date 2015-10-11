@@ -1,0 +1,1 @@
+/home/anqi/Airway/ConvertTriangleMeshToBinaryImage/build/CMakeFiles/ConvertTriangleMeshToBinaryImage.dir
